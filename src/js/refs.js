@@ -1,7 +1,5 @@
-export default
-    {
-        menu: document.querySelector('.js-menu'),
-        themeSwitcher: document.querySelector('.theme-switch__toggle'),
-        body: document.querySelector('body'),
-
-    };
+export default {
+    start: document.querySelector('[data-action="start"]'),
+    stop: document.querySelector('[data-action="stop"]'),
+    body: document.querySelector('body'),
+}

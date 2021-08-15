@@ -7,4 +7,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"./randomNumberFunction.js":"vgam","./refs.js":"VyiV"}],"Focm":[function(require,module,exports) {
 "use strict";var e=t(require("./js/refs.js")),r=require("./js/colorChanger.js");function t(e){return e&&e.__esModule?e:{default:e}}e.default.start.addEventListener("click",r.startBackgroundColorChanging),e.default.stop.addEventListener("click",r.stopBackgroundColorChanging);
 },{"./js/refs.js":"VyiV","./js/colorChanger.js":"be8l"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-10/src.d539753f.js.map
+//# sourceMappingURL=/goit-js-hw-11-color-switch/src.d539753f.js.map
